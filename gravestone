@@ -1,0 +1,465 @@
+{
+  "format": 0,
+  "tick_time": 20,
+  "elements": [
+    {
+      "type": "BLOCK",
+      "block_state": { "Name": "minecraft:polished_tuff" },
+      "transformation": {
+        "translation": [-0.09, -0.4, -0.09],
+        "left_rotation": [0.0, 0.0, 0.0, 1.0],
+        "scale": [0.18, 0.95, 0.18],
+        "right_rotation": [-0.0, -0.0, -0.0, 1.0]
+      },
+      "billboard": "fixed", "view_range": 1.0, "shadow_radius": 0.0, "shadow_strength": 1.0,
+      "culling": [2.0, 2.0], "glow_color": -1,
+      "tags": ["graves:cross_post", "graves:if_protected"],
+      "rotate_position": true, "rotate_yaw": true, "position": [0.0, 0.0, 0.0]
+    },
+    {
+      "type": "BLOCK",
+      "block_state": { "Name": "minecraft:polished_tuff" },
+      "transformation": {
+        "translation": [-0.388, 0.08199999999999995, -0.09],
+        "left_rotation": [0.0, 0.0, 0.0, 1.0],
+        "scale": [0.776, 0.16, 0.18],
+        "right_rotation": [-0.0, -0.0, -0.0, 1.0]
+      },
+      "billboard": "fixed", "view_range": 1.0, "shadow_radius": 0.0, "shadow_strength": 1.0,
+      "culling": [2.0, 2.0], "glow_color": -1,
+      "tags": ["graves:cross_arm", "graves:if_protected"],
+      "rotate_position": true, "rotate_yaw": true, "position": [0.0, 0.0, 0.0]
+    },
+    {
+      "type": "BLOCK",
+      "block_state": { "Name": "minecraft:spruce_log" },
+      "transformation": {
+        "translation": [-0.23, -0.52, -0.23],
+        "left_rotation": [0.0, 0.0, 0.0, 1.0],
+        "scale": [0.46, 0.18, 0.46],
+        "right_rotation": [-0.0, -0.0, -0.0, 1.0]
+      },
+      "billboard": "fixed", "view_range": 1.0, "shadow_radius": 0.0, "shadow_strength": 1.0,
+      "culling": [2.0, 2.0], "glow_color": -1,
+      "tags": ["graves:cross_plinth", "graves:if_protected"],
+      "rotate_position": true, "rotate_yaw": true, "position": [0.0, 0.0, 0.0]
+    },
+    {
+      "type": "BLOCK",
+      "block_state": { "Name": "minecraft:mossy_stone_bricks" },
+      "transformation": {
+        "translation": [-0.09, -0.4, -0.09],
+        "left_rotation": [0.0, 0.0, 0.0, 1.0],
+        "scale": [0.18, 0.95, 0.18],
+        "right_rotation": [-0.0, -0.0, -0.0, 1.0]
+      },
+      "billboard": "fixed", "view_range": 1.0, "shadow_radius": 0.0, "shadow_strength": 1.0,
+      "culling": [2.0, 2.0], "glow_color": -1,
+      "tags": ["graves:cross_post", "graves:if_unprotected"],
+      "rotate_position": true, "rotate_yaw": true, "position": [0.0, 0.0, 0.0]
+    },
+    {
+      "type": "BLOCK",
+      "block_state": { "Name": "minecraft:mossy_stone_bricks" },
+      "transformation": {
+        "translation": [-0.388, 0.08199999999999995, -0.09],
+        "left_rotation": [0.0, 0.0, 0.0, 1.0],
+        "scale": [0.776, 0.16, 0.18],
+        "right_rotation": [-0.0, -0.0, -0.0, 1.0]
+      },
+      "billboard": "fixed", "view_range": 1.0, "shadow_radius": 0.0, "shadow_strength": 1.0,
+      "culling": [2.0, 2.0], "glow_color": -1,
+      "tags": ["graves:cross_arm", "graves:if_unprotected"],
+      "rotate_position": true, "rotate_yaw": true, "position": [0.0, 0.0, 0.0]
+    },
+    {
+      "type": "BLOCK",
+      "block_state": { "Name": "minecraft:spruce_log" },
+      "transformation": {
+        "translation": [-0.23, -0.52, -0.23],
+        "left_rotation": [0.0, 0.0, 0.0, 1.0],
+        "scale": [0.46, 0.18, 0.46],
+        "right_rotation": [-0.0, -0.0, -0.0, 1.0]
+      },
+      "billboard": "fixed", "view_range": 1.0, "shadow_radius": 0.0, "shadow_strength": 1.0,
+      "culling": [2.0, 2.0], "glow_color": -1,
+      "tags": ["graves:cross_plinth", "graves:if_unprotected"],
+      "rotate_position": true, "rotate_yaw": true, "position": [0.0, 0.0, 0.0]
+    },
+    {
+      "type": "BLOCK",
+      "block_state": { "Name": "minecraft:polished_tuff" },
+      "transformation": {
+        "translation": [-0.013394, 0.469664, -0.03],
+        "left_rotation": [0.0, 0.0, -0.19509032, 0.98078528],
+        "scale": [0.260225, 0.07, 0.06],
+        "right_rotation": [-0.0, -0.0, -0.0, 1.0]
+      },
+      "billboard": "fixed", "view_range": 1.0, "shadow_radius": 0.0, "shadow_strength": 1.0,
+      "culling": [2.0, 2.0], "glow_color": -1,
+      "tags": ["graves:cross_ring", "graves:ring_seg_0", "graves:if_protected"],
+      "rotate_position": true, "rotate_yaw": true, "position": [0.0, 0.0, 0.0]
+    },
+    {
+      "type": "BLOCK",
+      "block_state": { "Name": "minecraft:polished_tuff" },
+      "transformation": {
+        "translation": [0.208081, 0.389022, -0.03],
+        "left_rotation": [0.0, 0.0, -0.55557023, 0.83146961],
+        "scale": [0.260225, 0.07, 0.06],
+        "right_rotation": [-0.0, -0.0, -0.0, 1.0]
+      },
+      "billboard": "fixed", "view_range": 1.0, "shadow_radius": 0.0, "shadow_strength": 1.0,
+      "culling": [2.0, 2.0], "glow_color": -1,
+      "tags": ["graves:cross_ring", "graves:ring_seg_1", "graves:if_protected"],
+      "rotate_position": true, "rotate_yaw": true, "position": [0.0, 0.0, 0.0]
+    },
+    {
+      "type": "BLOCK",
+      "block_state": { "Name": "minecraft:polished_tuff" },
+      "transformation": {
+        "translation": [0.307664, 0.175394, -0.03],
+        "left_rotation": [0.0, 0.0, -0.83146961, 0.55557023],
+        "scale": [0.260225, 0.07, 0.06],
+        "right_rotation": [-0.0, -0.0, -0.0, 1.0]
+      },
+      "billboard": "fixed", "view_range": 1.0, "shadow_radius": 0.0, "shadow_strength": 1.0,
+      "culling": [2.0, 2.0], "glow_color": -1,
+      "tags": ["graves:cross_ring", "graves:ring_seg_2", "graves:if_protected"],
+      "rotate_position": true, "rotate_yaw": true, "position": [0.0, 0.0, 0.0]
+    },
+    {
+      "type": "BLOCK",
+      "block_state": { "Name": "minecraft:polished_tuff" },
+      "transformation": {
+        "translation": [0.227022, -0.046081, -0.03],
+        "left_rotation": [0.0, 0.0, -0.98078528, 0.19509032],
+        "scale": [0.260225, 0.07, 0.06],
+        "right_rotation": [-0.0, -0.0, -0.0, 1.0]
+      },
+      "billboard": "fixed", "view_range": 1.0, "shadow_radius": 0.0, "shadow_strength": 1.0,
+      "culling": [2.0, 2.0], "glow_color": -1,
+      "tags": ["graves:cross_ring", "graves:ring_seg_3", "graves:if_protected"],
+      "rotate_position": true, "rotate_yaw": true, "position": [0.0, 0.0, 0.0]
+    },
+    {
+      "type": "BLOCK",
+      "block_state": { "Name": "minecraft:polished_tuff" },
+      "transformation": {
+        "translation": [0.013394, -0.145664, -0.03],
+        "left_rotation": [0.0, 0.0, 0.98078528, 0.19509032],
+        "scale": [0.260225, 0.07, 0.06],
+        "right_rotation": [-0.0, -0.0, -0.0, 1.0]
+      },
+      "billboard": "fixed", "view_range": 1.0, "shadow_radius": 0.0, "shadow_strength": 1.0,
+      "culling": [2.0, 2.0], "glow_color": -1,
+      "tags": ["graves:cross_ring", "graves:ring_seg_4", "graves:if_protected"],
+      "rotate_position": true, "rotate_yaw": true, "position": [0.0, 0.0, 0.0]
+    },
+    {
+      "type": "BLOCK",
+      "block_state": { "Name": "minecraft:polished_tuff" },
+      "transformation": {
+        "translation": [-0.208081, -0.065022, -0.03],
+        "left_rotation": [0.0, 0.0, 0.83146961, 0.55557023],
+        "scale": [0.260225, 0.07, 0.06],
+        "right_rotation": [-0.0, -0.0, -0.0, 1.0]
+      },
+      "billboard": "fixed", "view_range": 1.0, "shadow_radius": 0.0, "shadow_strength": 1.0,
+      "culling": [2.0, 2.0], "glow_color": -1,
+      "tags": ["graves:cross_ring", "graves:ring_seg_5", "graves:if_protected"],
+      "rotate_position": true, "rotate_yaw": true, "position": [0.0, 0.0, 0.0]
+    },
+    {
+      "type": "BLOCK",
+      "block_state": { "Name": "minecraft:polished_tuff" },
+      "transformation": {
+        "translation": [-0.307664, 0.148606, -0.03],
+        "left_rotation": [0.0, 0.0, 0.55557023, 0.83146961],
+        "scale": [0.260225, 0.07, 0.06],
+        "right_rotation": [-0.0, -0.0, -0.0, 1.0]
+      },
+      "billboard": "fixed", "view_range": 1.0, "shadow_radius": 0.0, "shadow_strength": 1.0,
+      "culling": [2.0, 2.0], "glow_color": -1,
+      "tags": ["graves:cross_ring", "graves:ring_seg_6", "graves:if_protected"],
+      "rotate_position": true, "rotate_yaw": true, "position": [0.0, 0.0, 0.0]
+    },
+    {
+      "type": "BLOCK",
+      "block_state": { "Name": "minecraft:polished_tuff" },
+      "transformation": {
+        "translation": [-0.227022, 0.370081, -0.03],
+        "left_rotation": [0.0, 0.0, 0.19509032, 0.98078528],
+        "scale": [0.260225, 0.07, 0.06],
+        "right_rotation": [-0.0, -0.0, -0.0, 1.0]
+      },
+      "billboard": "fixed", "view_range": 1.0, "shadow_radius": 0.0, "shadow_strength": 1.0,
+      "culling": [2.0, 2.0], "glow_color": -1,
+      "tags": ["graves:cross_ring", "graves:ring_seg_7", "graves:if_protected"],
+      "rotate_position": true, "rotate_yaw": true, "position": [0.0, 0.0, 0.0]
+    },
+    {
+      "type": "BLOCK",
+      "block_state": { "Name": "minecraft:mossy_stone_bricks" },
+      "transformation": {
+        "translation": [-0.013394, 0.469664, -0.03],
+        "left_rotation": [0.0, 0.0, -0.19509032, 0.98078528],
+        "scale": [0.260225, 0.07, 0.06],
+        "right_rotation": [-0.0, -0.0, -0.0, 1.0]
+      },
+      "billboard": "fixed", "view_range": 1.0, "shadow_radius": 0.0, "shadow_strength": 1.0,
+      "culling": [2.0, 2.0], "glow_color": -1,
+      "tags": ["graves:cross_ring", "graves:ring_seg_0", "graves:if_unprotected"],
+      "rotate_position": true, "rotate_yaw": true, "position": [0.0, 0.0, 0.0]
+    },
+    {
+      "type": "BLOCK",
+      "block_state": { "Name": "minecraft:mossy_stone_bricks" },
+      "transformation": {
+        "translation": [0.208081, 0.389022, -0.03],
+        "left_rotation": [0.0, 0.0, -0.55557023, 0.83146961],
+        "scale": [0.260225, 0.07, 0.06],
+        "right_rotation": [-0.0, -0.0, -0.0, 1.0]
+      },
+      "billboard": "fixed", "view_range": 1.0, "shadow_radius": 0.0, "shadow_strength": 1.0,
+      "culling": [2.0, 2.0], "glow_color": -1,
+      "tags": ["graves:cross_ring", "graves:ring_seg_1", "graves:if_unprotected"],
+      "rotate_position": true, "rotate_yaw": true, "position": [0.0, 0.0, 0.0]
+    },
+    {
+      "type": "BLOCK",
+      "block_state": { "Name": "minecraft:mossy_stone_bricks" },
+      "transformation": {
+        "translation": [0.307664, 0.175394, -0.03],
+        "left_rotation": [0.0, 0.0, -0.83146961, 0.55557023],
+        "scale": [0.260225, 0.07, 0.06],
+        "right_rotation": [-0.0, -0.0, -0.0, 1.0]
+      },
+      "billboard": "fixed", "view_range": 1.0, "shadow_radius": 0.0, "shadow_strength": 1.0,
+      "culling": [2.0, 2.0], "glow_color": -1,
+      "tags": ["graves:cross_ring", "graves:ring_seg_2", "graves:if_unprotected"],
+      "rotate_position": true, "rotate_yaw": true, "position": [0.0, 0.0, 0.0]
+    },
+    {
+      "type": "BLOCK",
+      "block_state": { "Name": "minecraft:mossy_stone_bricks" },
+      "transformation": {
+        "translation": [0.227022, -0.046081, -0.03],
+        "left_rotation": [0.0, 0.0, -0.98078528, 0.19509032],
+        "scale": [0.260225, 0.07, 0.06],
+        "right_rotation": [-0.0, -0.0, -0.0, 1.0]
+      },
+      "billboard": "fixed", "view_range": 1.0, "shadow_radius": 0.0, "shadow_strength": 1.0,
+      "culling": [2.0, 2.0], "glow_color": -1,
+      "tags": ["graves:cross_ring", "graves:ring_seg_3", "graves:if_unprotected"],
+      "rotate_position": true, "rotate_yaw": true, "position": [0.0, 0.0, 0.0]
+    },
+    {
+      "type": "BLOCK",
+      "block_state": { "Name": "minecraft:mossy_stone_bricks" },
+      "transformation": {
+        "translation": [0.013394, -0.145664, -0.03],
+        "left_rotation": [0.0, 0.0, 0.98078528, 0.19509032],
+        "scale": [0.260225, 0.07, 0.06],
+        "right_rotation": [-0.0, -0.0, -0.0, 1.0]
+      },
+      "billboard": "fixed", "view_range": 1.0, "shadow_radius": 0.0, "shadow_strength": 1.0,
+      "culling": [2.0, 2.0], "glow_color": -1,
+      "tags": ["graves:cross_ring", "graves:ring_seg_4", "graves:if_unprotected"],
+      "rotate_position": true, "rotate_yaw": true, "position": [0.0, 0.0, 0.0]
+    },
+    {
+      "type": "BLOCK",
+      "block_state": { "Name": "minecraft:mossy_stone_bricks" },
+      "transformation": {
+        "translation": [-0.208081, -0.065022, -0.03],
+        "left_rotation": [0.0, 0.0, 0.83146961, 0.55557023],
+        "scale": [0.260225, 0.07, 0.06],
+        "right_rotation": [-0.0, -0.0, -0.0, 1.0]
+      },
+      "billboard": "fixed", "view_range": 1.0, "shadow_radius": 0.0, "shadow_strength": 1.0,
+      "culling": [2.0, 2.0], "glow_color": -1,
+      "tags": ["graves:cross_ring", "graves:ring_seg_5", "graves:if_unprotected"],
+      "rotate_position": true, "rotate_yaw": true, "position": [0.0, 0.0, 0.0]
+    },
+    {
+      "type": "BLOCK",
+      "block_state": { "Name": "minecraft:mossy_stone_bricks" },
+      "transformation": {
+        "translation": [-0.307664, 0.148606, -0.03],
+        "left_rotation": [0.0, 0.0, 0.55557023, 0.83146961],
+        "scale": [0.260225, 0.07, 0.06],
+        "right_rotation": [-0.0, -0.0, -0.0, 1.0]
+      },
+      "billboard": "fixed", "view_range": 1.0, "shadow_radius": 0.0, "shadow_strength": 1.0,
+      "culling": [2.0, 2.0], "glow_color": -1,
+      "tags": ["graves:cross_ring", "graves:ring_seg_6", "graves:if_unprotected"],
+      "rotate_position": true, "rotate_yaw": true, "position": [0.0, 0.0, 0.0]
+    },
+    {
+      "type": "BLOCK",
+      "block_state": { "Name": "minecraft:mossy_stone_bricks" },
+      "transformation": {
+        "translation": [-0.227022, 0.370081, -0.03],
+        "left_rotation": [0.0, 0.0, 0.19509032, 0.98078528],
+        "scale": [0.260225, 0.07, 0.06],
+        "right_rotation": [-0.0, -0.0, -0.0, 1.0]
+      },
+      "billboard": "fixed", "view_range": 1.0, "shadow_radius": 0.0, "shadow_strength": 1.0,
+      "culling": [2.0, 2.0], "glow_color": -1,
+      "tags": ["graves:cross_ring", "graves:ring_seg_7", "graves:if_unprotected"],
+      "rotate_position": true, "rotate_yaw": true, "position": [0.0, 0.0, 0.0]
+    },
+    {
+      "type": "ITEM",
+      "display_item": "minecraft:player_head",
+      "item_model_transformation": "FIXED",
+      "transformation": {
+        "translation": [0.0, 0.162, 0.1],
+        "left_rotation": [0.0, 0.0, 0.0, 1.0],
+        "scale": [0.24, 0.24, 0.24],
+        "right_rotation": [-0.0, -0.0, -0.0, 1.0]
+      },
+      "billboard": "fixed", "view_range": 1.0, "shadow_radius": 0.0, "shadow_strength": 0.0,
+      "culling": [2.0, 2.0], "glow_color": -1,
+      "tags": ["graves:crossing_icon", "graves:if_protected", "graves:player_head"],
+      "rotate_position": true, "rotate_yaw": true, "position": [0.0, 0.0, 0.0]
+    },
+    {
+      "type": "ITEM",
+      "display_item": "minecraft:skeleton_skull",
+      "item_model_transformation": "FIXED",
+      "transformation": {
+        "translation": [0.0, 0.162, 0.1],
+        "left_rotation": [0.0, 0.0, 0.0, 1.0],
+        "scale": [0.24, 0.24, 0.24],
+        "right_rotation": [-0.0, -0.0, -0.0, 1.0]
+      },
+      "billboard": "fixed", "view_range": 1.0, "shadow_radius": 0.0, "shadow_strength": 0.0,
+      "culling": [2.0, 2.0], "glow_color": -1,
+      "tags": ["graves:crossing_icon", "graves:if_unprotected"],
+      "rotate_position": true, "rotate_yaw": true, "position": [0.0, 0.0, 0.0]
+    },
+    {
+      "type": "ITEM",
+      "item_model_transformation": "FIXED",
+      "transformation": {
+        "translation": [0.32, -0.46, 0.05],
+        "left_rotation": [0.67437965, -0.15304601, 0.21263118, 0.69034547],
+        "scale": [0.45, 0.44999998, 0.44999998],
+        "right_rotation": [-0.0, -0.0, -0.0, 1.0]
+      },
+      "billboard": "fixed", "view_range": 1.0, "shadow_radius": 0.0, "shadow_strength": 0.0,
+      "culling": [2.0, 2.0], "glow_color": -1,
+      "tags": ["graves:item"],
+      "rotate_position": true, "rotate_yaw": true, "position": [0.0, 0.0, 0.0]
+    },
+    {
+      "type": "ITEM",
+      "item_model_transformation": "FIXED",
+      "transformation": {
+        "translation": [-0.3, -0.43, 0.08],
+        "left_rotation": [0.7575899, -0.30307037, -0.57702374, 0.035348564],
+        "scale": [0.45, 0.45000004, 0.45],
+        "right_rotation": [-0.0, -0.0, -0.0, 1.0]
+      },
+      "billboard": "fixed", "view_range": 1.0, "shadow_radius": 0.0, "shadow_strength": 0.0,
+      "culling": [2.0, 2.0], "glow_color": -1,
+      "tags": ["graves:item"],
+      "rotate_position": true, "rotate_yaw": true, "position": [0.0, 0.0, 0.0]
+    },
+    {
+      "type": "ITEM",
+      "display_item": {
+        "id": "universal_graves:icon",
+        "count": 1,
+        "components": { "universal_graves:texture": "remove_protection" }
+      },
+      "item_model_transformation": "FIXED",
+      "transformation": {
+        "translation": [0.0, -0.44, 0.55],
+        "left_rotation": [-0.50000006, 0.0, 0.0, 0.8660254],
+        "scale": [0.35, 0.35000002, 0.35000002],
+        "right_rotation": [-0.0, -0.0, -0.0, 1.0]
+      },
+      "billboard": "fixed", "view_range": 1.0, "shadow_radius": 0.0, "shadow_strength": 0.0,
+      "culling": [2.0, 2.0], "glow_color": -1,
+      "tags": ["graves:payment_required"],
+      "rotate_position": true, "rotate_yaw": true, "position": [0.0, 0.0, 0.0]
+    },
+    {
+      "type": "TEXT",
+      "text": ["<yellow>${cost}"],
+      "text_width": -1, "text_background": -1, "text_opacity": -1, "text_shadow": true,
+      "text_see_through": false, "text_default_background": true, "text_alignment": "center",
+      "transformation": {
+        "translation": [0.0, -0.31, 0.55],
+        "left_rotation": [-0.50000006, 0.0, 0.0, 0.8660254],
+        "scale": [0.35, 0.35000002, 0.35000002],
+        "right_rotation": [-0.0, -0.0, -0.0, 1.0]
+      },
+      "billboard": "fixed", "view_range": 1.0, "shadow_radius": 0.0, "shadow_strength": 0.0,
+      "culling": [2.0, 2.0], "glow_color": -1,
+      "tags": ["graves:payment_required"],
+      "rotate_position": true, "rotate_yaw": true, "position": [0.0, 0.0, 0.0]
+    },
+    {
+      "type": "TEXT",
+      "text": [
+        "<gold><lang:'text.graves.grave_of':'<yellow>${player}'>",
+        "<yellow>${death_cause}",
+        { "text": "<blue><lang:'text.graves.protected_time':'<white>${protection_time}'><r>",
+          "tags": ["graves:if_protected", "graves:has_protection_timer"] },
+        { "text": "<red><lang:'text.graves.break_time':'<white>${break_time}'>",
+          "tags": ["graves:has_breaking_timer"] }
+      ],
+      "text_width": 9999, "text_background": -1, "text_opacity": -1, "text_shadow": true,
+      "text_see_through": false, "text_default_background": true, "text_alignment": "center",
+      "transformation": {
+        "translation": [0.0, 0.65, 0.0],
+        "left_rotation": [0.0, 0.0, 0.0, 1.0],
+        "scale": [0.6, 0.6, 0.6],
+        "right_rotation": [-0.0, -0.0, -0.0, 1.0]
+      },
+      "billboard": "center", "brightness": { "block": 15, "sky": 15 }, "view_range": 0.5,
+      "shadow_radius": 0.0, "shadow_strength": 0.0, "culling": [2.0, 2.0], "glow_color": -1,
+      "tags": ["graves:if_not_visual"],
+      "rotate_position": true, "rotate_yaw": true, "position": [0.0, 0.0, 0.0]
+    },
+    {
+      "type": "TEXT",
+      "text": ["${text_1}", "${text_2}", "${text_3}", "${text_4}"],
+      "text_width": 9999, "text_background": -1, "text_opacity": -1, "text_shadow": true,
+      "text_see_through": false, "text_default_background": true, "text_alignment": "center",
+      "transformation": {
+        "translation": [0.0, 0.65, 0.0],
+        "left_rotation": [0.0, 0.0, 0.0, 1.0],
+        "scale": [0.6, 0.6, 0.6],
+        "right_rotation": [-0.0, -0.0, -0.0, 1.0]
+      },
+      "billboard": "center", "brightness": { "block": 15, "sky": 15 }, "view_range": 0.5,
+      "shadow_radius": 0.0, "shadow_strength": 0.0, "culling": [2.0, 2.0], "glow_color": -1,
+      "tags": ["graves:if_player_made", "graves:if_visual"],
+      "rotate_position": true, "rotate_yaw": true, "position": [0.0, 0.0, 0.0]
+    },
+    {
+      "type": "TEXT",
+      "text": [
+        "<gold><lang:'text.graves.grave_of':'<yellow>${player}'>",
+        "<yellow>${death_cause}"
+      ],
+      "text_width": 9999, "text_background": -1, "text_opacity": -1, "text_shadow": true,
+      "text_see_through": false, "text_default_background": true, "text_alignment": "center",
+      "transformation": {
+        "translation": [0.0, 0.65, 0.0],
+        "left_rotation": [0.0, 0.0, 0.0, 1.0],
+        "scale": [0.6, 0.6, 0.6],
+        "right_rotation": [-0.0, -0.0, -0.0, 1.0]
+      },
+      "billboard": "center", "brightness": { "block": 15, "sky": 15 }, "view_range": 0.5,
+      "shadow_radius": 0.0, "shadow_strength": 0.0, "culling": [2.0, 2.0], "glow_color": -1,
+      "tags": ["graves:if_visual", "graves:if_not_player_made"],
+      "rotate_position": true, "rotate_yaw": true, "position": [0.0, 0.0, 0.0]
+    }
+  ]
+}
